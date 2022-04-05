@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 0cf2beff987d36d46bca1a02365b975e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4562668308943756337
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_0
+  - first:
+      213: -4734828626770989527
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_1
+  - first:
+      213: 7992938439390927929
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_2
+  - first:
+      213: 161151804628717338
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_3
+  - first:
+      213: -2279119056855154059
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_4
+  - first:
+      213: -1134851672164690641
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_5
+  - first:
+      213: 331444499640888606
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_6
+  - first:
+      213: -8342777536171996968
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_7
+  - first:
+      213: -8071011829351311230
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_8
+  - first:
+      213: -254092206179943013
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_9
+  - first:
+      213: 8636060944104750829
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_10
+  - first:
+      213: 4560342019754676696
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_11
+  - first:
+      213: -8818902695488017674
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_12
+  - first:
+      213: 5184336494212671832
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_13
+  - first:
+      213: 3588270410304471783
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_14
+  - first:
+      213: 5289024878530010548
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_15
+  - first:
+      213: -679685250614981340
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_16
+  - first:
+      213: 5101132448808046910
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_17
+  - first:
+      213: 5265715857936888359
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_18
+  - first:
+      213: 3098582974326063745
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_19
+  - first:
+      213: -3952766991350332101
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_20
+  - first:
+      213: -5432362383637338473
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_21
+  - first:
+      213: -1456099340229990547
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_22
+  - first:
+      213: 4112220634763747951
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_23
+  - first:
+      213: 7964736875891853871
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_24
+  - first:
+      213: 240581889704455736
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_25
+  - first:
+      213: -1589058629478388324
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_26
+  - first:
+      213: 4916756028439993620
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_27
+  - first:
+      213: -7066884333507275706
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_28
+  - first:
+      213: -6480827029152146345
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_29
+  - first:
+      213: 7445856981227851479
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_30
+  - first:
+      213: 7378068593373334756
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_31
+  - first:
+      213: -3669798055541993062
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_32
+  - first:
+      213: -504933748327626763
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_33
+  - first:
+      213: -1591192109556436696
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_34
+  - first:
+      213: 5315308892097111674
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_35
+  - first:
+      213: -8281482216821352794
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_36
+  - first:
+      213: -5692180859621444084
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_37
+  - first:
+      213: -2289073530736429846
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_38
+  - first:
+      213: 3697210914075008885
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_39
+  - first:
+      213: -9023105207427392525
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_40
+  - first:
+      213: 6834366511658057051
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_41
+  - first:
+      213: 471668662106098459
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_42
+  - first:
+      213: 5961364649375892982
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_43
+  - first:
+      213: -7046239012122290482
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_44
+  - first:
+      213: -3086254287413598623
+    second: SNES - Final Fantasy 6 - Edgar Roni Figaro_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3a979d8552ea0c0800000000000000
+      internalID: -4562668308943756337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee6fc33728a4eb0800000000000000
+      internalID: -4734828626770989527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c1677892f9cee60800000000000000
+      internalID: 7992938439390927929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcec566b68c3200800000000000000
+      internalID: 161151804628717338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57243570b41fe50e0800000000000000
+      internalID: -2279119056855154059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f259dd7ba623040f0800000000000000
+      internalID: -1134851672164690641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 185
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d2adf2407899400800000000000000
+      internalID: 331444499640888606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 184
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d80c546800883c80800000000000000
+      internalID: -8342777536171996968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 184
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881a85d0810eff80800000000000000
+      internalID: -8071011829351311230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df2761c78497cf0800000000000000
+      internalID: -254092206179943013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deefcff3ca379d770800000000000000
+      internalID: 8636060944104750829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d3cdb7e6994f30800000000000000
+      internalID: 4560342019754676696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faa3b619b6fc9580800000000000000
+      internalID: -8818902695488017674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e3add29672f740800000000000000
+      internalID: 5184336494212671832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24e3c3de81cc130800000000000000
+      internalID: 3588270410304471783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1cf4ca14666940800000000000000
+      internalID: 5289024878530010548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 157
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d850e9dd54196f0800000000000000
+      internalID: -679685250614981340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 157
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e311c6b6fecdac640800000000000000
+      internalID: 5101132448808046910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 126
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72238708ca4931940800000000000000
+      internalID: 5265715857936888359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 126
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18247c35cc0600b20800000000000000
+      internalID: 3098582974326063745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 126
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b358ca03d53f429c0800000000000000
+      internalID: -3952766991350332101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 126
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962a18a13f5c94b0800000000000000
+      internalID: -5432362383637338473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 123
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6729e36d55eacbe0800000000000000
+      internalID: -1456099340229990547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 123
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ef1d31ea811930800000000000000
+      internalID: 4112220634763747951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 128
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a0df85dfd688e60800000000000000
+      internalID: 7964736875891853871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee93b34f7b65300800000000000000
+      internalID: 240581889704455736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 78
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9debae789782f9e0800000000000000
+      internalID: -1589058629478388324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1d6ace83db3440800000000000000
+      internalID: 4916756028439993620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 78
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644968004226ded90800000000000000
+      internalID: -7066884333507275706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd2a4672a7f06a0800000000000000
+      internalID: -6480827029152146345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 99
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec27e797ff45760800000000000000
+      internalID: 7445856981227851479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eccb748b4a246660800000000000000
+      internalID: 7378068593373334756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 50
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a911006ac12421dc0800000000000000
+      internalID: -3669798055541993062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 50
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f743df5e6d1ef8f0800000000000000
+      internalID: -504933748327626763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821fb74f433fae9e0800000000000000
+      internalID: -1591192109556436696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a766ce09645c3c940800000000000000
+      internalID: 5315308892097111674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 70
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a616ac0dc3421d80800000000000000
+      internalID: -8281482216821352794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 70
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067cf8aaaf4101b0800000000000000
+      internalID: -5692180859621444084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 70
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4b4b770c39b30e0800000000000000
+      internalID: -2289073530736429846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 50
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f5329dcb12f4330800000000000000
+      internalID: 3697210914075008885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 41
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb105cce9d77c280800000000000000
+      internalID: -9023105207427392525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d3430e12c88de50800000000000000
+      internalID: 6834366511658057051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 28
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b84803624bb8600800000000000000
+      internalID: 471668662106098459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f50f9e50950bb250800000000000000
+      internalID: 5961364649375892982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_44
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 14
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec693f773fab63e90800000000000000
+      internalID: -7046239012122290482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Final Fantasy 6 - Edgar Roni Figaro_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166af28c31c6b25d0800000000000000
+      internalID: -3086254287413598623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
