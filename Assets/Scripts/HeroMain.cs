@@ -38,9 +38,9 @@ public class HeroMain : MonoBehaviour
 
     private void UpdateSpriteDirection(){
         if (_direction.x > 0){
-            transform.localScale = new Vector3 (-3, 3, 3);
+            transform.localScale = new Vector3 (-1.75f, 1.75f, 1);
         }else if (_direction.x < 0){
-            transform.localScale = new Vector3(3, 3, 3);
+            transform.localScale = new Vector3(1.75f, 1.75f, 1);
         }
     }
 }

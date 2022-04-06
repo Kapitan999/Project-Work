@@ -56,14 +56,25 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ISwitch.cs" />
+    <Compile Include="Assets\Scripts\AnimationSwitch.cs" />
+    <Compile Include="Assets\Scripts\CanvasFalse.cs" />
+    <Compile Include="Assets\Scripts\CharacterData.cs" />
+    <Compile Include="Assets\Scripts\Dialog.cs" />
+    <Compile Include="Assets\Scripts\DialogManager.cs" />
+    <Compile Include="Assets\Scripts\DialogTrigger.cs" />
     <Compile Include="Assets\Scripts\GetPowerOnTrigger.cs" />
     <Compile Include="Assets\Scripts\HeroMain.cs" />
     <Compile Include="Assets\Scripts\HeronInput.cs" />
+    <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\LogTriggers.cs" />
     <Compile Include="Assets\Scripts\OnTriggerDie.cs" />
     <Compile Include="Assets\Scripts\OnTriggerWithPower.cs" />
+    <Compile Include="Assets\Scripts\SetActiveSwitch.cs" />
     <Compile Include="Assets\Scripts\ShipFire.cs" />
     <Compile Include="Assets\Scripts\ShipFireV01.cs" />
+    <Compile Include="Assets\Scripts\ShowCharacterInteraction.cs" />
+    <Compile Include="Assets\Scripts\SpriteAndObjectSwitchButton.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
