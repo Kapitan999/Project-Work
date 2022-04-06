@@ -37,13 +37,17 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\GetPowerOnTrigger.cs" />
-     <Compile Include="Assets\Scripts\HeroMain.cs" />
-     <Compile Include="Assets\Scripts\HeronInput.cs" />
+     <Compile Include="Assets\Scripts\HeroBrains\HeroMain.cs" />
+     <Compile Include="Assets\Scripts\HeroBrains\HeronInput.cs" />
      <Compile Include="Assets\Scripts\LogTriggers.cs" />
      <Compile Include="Assets\Scripts\OnTriggerDie.cs" />
      <Compile Include="Assets\Scripts\OnTriggerWithPower.cs" />
      <Compile Include="Assets\Scripts\ShipFire.cs" />
      <Compile Include="Assets\Scripts\ShipFireV01.cs" />
+     <Compile Include="Assets\Scripts\components\EnterCollision.cs" />
+     <Compile Include="Assets\Scripts\components\EnterTrigger.cs" />
+     <Compile Include="Assets\Scripts\components\InteractibleComponent.cs" />
+     <Compile Include="Assets\Scripts\components\sceneCreating.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Unity\2019.4.35f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
