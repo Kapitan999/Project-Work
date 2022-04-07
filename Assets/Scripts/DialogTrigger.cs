@@ -7,6 +7,7 @@ public class DialogTrigger : MonoBehaviour
 {
     public Dialog dialog;
     public CanvasFalse canvasFalse;
+    public CanvasFalse2 canvasFalse2;
     public HeroMain heroMain;
     public int flag = 1;
     public void TriggerDialog()
@@ -17,15 +18,15 @@ public class DialogTrigger : MonoBehaviour
     private void OnCollisionStay2D(Collision2D collision)
     {
             Debug.Log("YES");
-
+            canvasFalse2.Visible();
             if (Input.GetKeyDown(KeyCode.E))
             {
-
                 flag = 0;
                 canvasFalse.Visible();
                 TriggerDialog();
             }
 
     }
+
 
 }
