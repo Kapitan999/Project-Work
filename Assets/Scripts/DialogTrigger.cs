@@ -7,24 +7,25 @@ public class DialogTrigger : MonoBehaviour
 {
     public Dialog dialog;
     public CanvasFalse canvasFalse;
-
+    public HeroMain heroMain;
+    public int flag = 1;
     public void TriggerDialog()
     {
         FindObjectOfType<DialogManager>().StartDialog(dialog);
     }
-    private void OnTriggerStay2D(Collider2D collision)
+
+    private void OnCollisionStay2D(Collision2D collision)
     {
-        if (collision.CompareTag("Player"))
-        {
-            if(Input.GetKeyDown(KeyCode.E))
+            Debug.Log("YES");
+
+            if (Input.GetKeyDown(KeyCode.E))
             {
+
+                flag = 0;
                 canvasFalse.Visible();
                 TriggerDialog();
             }
-            
-        }
-    }
 
-    
+    }
 
 }

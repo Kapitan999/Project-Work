@@ -8,7 +8,7 @@ public class DialogManager : MonoBehaviour
     public Text nameText;
     public Text dialogText;
     public CanvasFalse canvasFalse;
-
+    public DialogTrigger dialogTrigger;
     private Queue<string> sentences;
     void Start()
     {
@@ -58,6 +58,6 @@ public class DialogManager : MonoBehaviour
     public void EndDialog()
     {
         canvasFalse.UnVisible();
-        Debug.Log("End");
+        dialogTrigger.flag = 1;
     }
 }

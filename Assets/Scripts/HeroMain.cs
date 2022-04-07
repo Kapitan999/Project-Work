@@ -13,34 +13,43 @@ public class HeroMain : MonoBehaviour
     private Rigidbody2D _rigidbody;
     private Animator _animation;
     private bool _isGoing;
+    public int flag = 1;
 
     private void Awake() {
         _rigidbody = GetComponent<Rigidbody2D>();
         _animation = GetComponent<Animator>();
     }
     public void SetDirection(Vector2 direction){
-        _direction =direction;
+            _direction = direction;
+        
     }
 
 
     private void FixedUpdate() {
-        _rigidbody.velocity = new Vector2 (_direction.x * _speed ,_direction.y * _speed);
-        if (_rigidbody.velocity.x!=0 || _rigidbody.velocity.y !=0){ _isGoing=true; }
-        else {_isGoing = false;}
+        
+            
+            _rigidbody.velocity = new Vector2(_direction.x * _speed, _direction.y * _speed);
+            if (_rigidbody.velocity.x != 0 || _rigidbody.velocity.y != 0) { _isGoing = true; }
+            else { _isGoing = false; }
 
-        _animation.SetBool(IsGoing, _isGoing);
-        _animation.SetFloat (directionX, _rigidbody.velocity.x);
-        _animation.SetFloat(directionY, _rigidbody.velocity.y);
+            _animation.SetBool(IsGoing, _isGoing);
+            _animation.SetFloat(directionX, _rigidbody.velocity.x);
+            _animation.SetFloat(directionY, _rigidbody.velocity.y);
 
-        UpdateSpriteDirection();
+            UpdateSpriteDirection();
+        
     }
 
 
     private void UpdateSpriteDirection(){
-        if (_direction.x > 0){
-            transform.localScale = new Vector3 (-1.75f, 1.75f, 1);
-        }else if (_direction.x < 0){
-            transform.localScale = new Vector3(1.75f, 1.75f, 1);
-        }
+            if (_direction.x > 0)
+            {
+                transform.localScale = new Vector3(-1.75f, 1.75f, 1);
+            }
+            else if (_direction.x < 0)
+            {
+                transform.localScale = new Vector3(1.75f, 1.75f, 1);
+            }
+       
     }
 }
