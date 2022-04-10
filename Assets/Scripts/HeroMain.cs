@@ -5,7 +5,7 @@ using UnityEngine;
 public class HeroMain : MonoBehaviour
 {
     [SerializeField] private float _speed;
-
+    public static HeroMain instance;
     private static readonly int IsGoing = Animator.StringToHash("isGoing");
     private static readonly int directionX = Animator.StringToHash("directionX");
     private static readonly int directionY = Animator.StringToHash("directionY");
@@ -24,6 +24,10 @@ public class HeroMain : MonoBehaviour
         
     }
 
+    private void Start()
+    {
+        instance = this;
+    }
 
     private void FixedUpdate() {
         

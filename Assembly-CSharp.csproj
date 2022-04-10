@@ -57,8 +57,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ISwitch.cs" />
-    <Compile Include="Assets\Inventory\Scripts\InventoryOpenScript.cs" />
+    <Compile Include="Assets\Inventory\Scripts\CharacterSlot.cs" />
+    <Compile Include="Assets\Inventory\Scripts\Inventory.cs" />
+    <Compile Include="Assets\Inventory\Scripts\InventorySlot.cs" />
     <Compile Include="Assets\Inventory\Scripts\Item.cs" />
+    <Compile Include="Assets\Inventory\Scripts\ItemInfo.cs" />
+    <Compile Include="Assets\Inventory\Scripts\ItemInfoCharacter.cs" />
+    <Compile Include="Assets\Inventory\Scripts\PickUpScript.cs" />
+    <Compile Include="Assets\Inventory\Scripts\UseOfItems.cs" />
     <Compile Include="Assets\Scripts\AnimationSwitch.cs" />
     <Compile Include="Assets\Scripts\CanvasFalse.cs" />
     <Compile Include="Assets\Scripts\CanvasFalse2.cs" />
@@ -622,6 +628,9 @@
     <Reference Include="Cinemachine">
       <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64">
+      <HintPath>Library\ScriptAssemblies\Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
@@ -685,6 +694,9 @@
     <Reference Include="Unity.2D.Animation.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Sysroot.Linux_x86_64">
+      <HintPath>Library\ScriptAssemblies\Unity.Sysroot.Linux_x86_64.dll</HintPath>
+    </Reference>
     <Reference Include="com.unity.cinemachine.editor">
       <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
@@ -693,6 +705,9 @@
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.SysrootPackage.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.SysrootPackage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
@@ -708,15 +723,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64">
-      <HintPath>Library\ScriptAssemblies\Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Sysroot.Linux_x86_64">
-      <HintPath>Library\ScriptAssemblies\Unity.Sysroot.Linux_x86_64.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.SysrootPackage.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.SysrootPackage.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -61,5 +61,6 @@ public class DialogManager : MonoBehaviour
         canvasFalse.UnVisible();
         canvasFalse2.UnVisible();
         dialogTrigger.flag = 1;
+        //Debug.Log("End");
     }
 }

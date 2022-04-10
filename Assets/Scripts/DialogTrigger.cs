@@ -17,7 +17,7 @@ public class DialogTrigger : MonoBehaviour
 
     private void OnCollisionStay2D(Collision2D collision)
     {
-            Debug.Log("YES");
+           // Debug.Log("YES");
             canvasFalse2.Visible();
             if (Input.GetKeyDown(KeyCode.E))
             {
