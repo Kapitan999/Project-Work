@@ -18,7 +18,7 @@ public class ItemInfoCharacter : MonoBehaviour
     private Button TakeOffBtn;
     private Button DropBtn;
 
-    private Item InfoItem;
+    private Item InfoItemCharacter;
     private GameObject ItemCharacterObj;
     private CharacterSlot CurrentSlot;
     public static ItemInfoCharacter instance;
@@ -63,7 +63,7 @@ public class ItemInfoCharacter : MonoBehaviour
         Close();
         ExitButton.onClick.AddListener(Close);
         TakeOffBtn.onClick.AddListener(TakeOff);
-        //DropBtn.onClick.AddListener(Drop);
+        DropBtn.onClick.AddListener(Drop);
     }
 
     public void ChangeInfo(Item item)
@@ -170,30 +170,30 @@ public class ItemInfoCharacter : MonoBehaviour
     {
         if (Inventory.instance.CountOfEmptySlots <= 27)
         {
-            Inventory.instance.PutInEmptySlot(InfoItem, ItemCharacterObj);
+            Inventory.instance.PutInEmptySlot(InfoItemCharacter, ItemCharacterObj);
             CurrentSlot.ClearSlot();
             Close();
         }
     }
 
 
-    //public void Drop()
-   // {
-    //    Vector3 DropPos = new Vector3(HeroMain.instance.transform.position.x + 3f, HeroMain.instance.transform.position.y, HeroMain.instance.transform.position.z);
+    public void Drop()
+   {
+        Vector3 DropPos = new Vector3(HeroMain.instance.transform.position.x + 3f, HeroMain.instance.transform.position.y, HeroMain.instance.transform.position.z);
         
-    //    ItemCharacterObj.SetActive(true);
-     //   ItemCharacterObj.transform.position = DropPos;
-     //   Inventory.instance.CountOfEmptySlots -= 1;
-    //    CurrentSlot.ClearSlot();
-     //   Close();
+        ItemCharacterObj.SetActive(true);
+        ItemCharacterObj.transform.position = DropPos;
+        Inventory.instance.CountOfEmptySlots -= 1;
+        CurrentSlot.ClearSlot();
+        Close();
 
-    //}
+    }
 
 
     public void Open(Item item, GameObject itemObj, CharacterSlot currentSlot)
     {
         ChangeInfo(item);
-        InfoItem = item;
+        InfoItemCharacter = item;
         ItemCharacterObj = itemObj;
         CurrentSlot = currentSlot;
         gameObject.transform.localScale = Vector3.one;

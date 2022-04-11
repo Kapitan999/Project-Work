@@ -59,10 +59,12 @@ public class Inventory : MonoBehaviour
         {
             characterSlots[2].PutInCSlot(item, obj);
             flag = 1;
+            
         }
         else
         {
             flag = 0;
+          
         }
     }
 

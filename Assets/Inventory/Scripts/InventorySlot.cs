@@ -9,6 +9,7 @@ public class InventorySlot : MonoBehaviour
     Button button;
     public ItemInfo itemInfo;
     public GameObject ItemObj;
+    public GameObject Test;
     public static InventorySlot instance;
     private void Start()
     {
@@ -24,14 +25,14 @@ public class InventorySlot : MonoBehaviour
         icon.sprite = item.icon;
         SlotItem = item;
         ItemObj = obj;
-        
+        Test = obj;
     }
 
     public void SlotClicked()
     {
             if (SlotItem != null)
             {
-                itemInfo.Open(SlotItem, ItemObj, this);
+                itemInfo.Open(SlotItem, Test, this);
             }
     }
 

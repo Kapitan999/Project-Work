@@ -168,19 +168,7 @@ public class ItemInfo : MonoBehaviour
 
     public void Use()
     {
-        UseOfItems.instance.Use(InfoItem);
-        if ((Inventory.instance.flag != 1) & (InfoItem.TypeOfObj == "Sword"))
-        {
-            Inventory.instance.CountOfEmptySlots -= 1;
-            CurrentSlot.ClearSlot();
-            Close();
-        }
-        else
-        {
-            Inventory.instance.CountOfEmptySlots -= 1;
-            CurrentSlot.ClearSlot();
-            Close();
-        }
+        UseOfItems.instance.Use(InfoItem, ItemObj, CurrentSlot);  
         
     }
 

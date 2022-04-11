@@ -14,10 +14,13 @@ public class PickUpScript : MonoBehaviour
     {
         if(collision.CompareTag("Player"))
         {
+         
+            if(Inventory.instance.CountOfEmptySlots <= 27)
+            {
                 Inventory.instance.PutInEmptySlot(item, itemObj);
-                if (Inventory.instance.CountOfEmptySlots <= 28)
-                    gameObject.SetActive(false);
-           
+                gameObject.SetActive(false);
+            }
+      
         }
     }
 }

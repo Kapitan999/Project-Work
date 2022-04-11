@@ -34,7 +34,6 @@ public class CharacterSlot : MonoBehaviour
         icon.sprite = item.icon;
         CharacterSlotItem = item;
         CharacterItemObj = obj;
-
     }
 
 
